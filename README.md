@@ -1,1 +1,1 @@
-telegram bot for mind your quran exercises
+write https://github.com/hablullah/data-quran/blob/master/ayah-text/simple-clean-tanzil.md file to data.txt then install dependency and run add-to-databse.py and now datas are in your database . 
